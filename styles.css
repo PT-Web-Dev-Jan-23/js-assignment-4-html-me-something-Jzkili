@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+
+#mainHeading {
+    color: red;
+}
+body {
+    margin: 8px;
+    display: block;
+    
+}
+
+#testP {
+text-decoration: underline;
+}
+.funParagraph{
+    color:green
+}
+
+.styling {
+    background-color: red;
+}
+
+footer { 
+    color:navy;
+}
+h3 {
+    font-size: larger;
+    font-style: oblique;
+}
+.padding {
+    margin: 7px;
+    padding: 10px;
+}
